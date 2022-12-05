@@ -33,6 +33,15 @@ print(arr)
 # In[27]:
 
 
+
+
+
+
+
+
+
+
+
 # merge sort
 
 def mergeSort(myList): # Insertion Sort
@@ -106,6 +115,12 @@ print(myList)
 
 
 # In[29]:
+
+
+
+
+
+
 
 
 # kruskal
