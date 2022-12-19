@@ -1,7 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[28]:
+
+
 
 
 # Insertion Sort
@@ -30,7 +29,7 @@ insertionSort(arr)
 print(arr)
 
 
-# In[27]:
+
 
 
 
@@ -114,7 +113,7 @@ mergeSort(myList)
 print(myList)
 
 
-# In[29]:
+
 
 
 
@@ -186,7 +185,7 @@ g.add_edge(3, 4, 7)
 g.kruskal()
 
 
-# In[ ]:
+
 
 
 
